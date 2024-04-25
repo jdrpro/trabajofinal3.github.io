@@ -3,6 +3,13 @@
     margin: 0;
 }
 
+header {
+    background-image: url(../assets/imgs/painted-woman-face2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
 
 .colorletra{
     color:beige;
